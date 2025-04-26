@@ -1,0 +1,8 @@
+
+project_id = "rgrxdypaqncmrmwdrohg"
+
+[functions.verify-code]
+verify_jwt = false
+
+[functions.generate-code]
+verify_jwt = false
